@@ -1,5 +1,12 @@
 # concerts api
 
+## Clone repository
+
+To clone the repository run:
+```bash
+git clone git clone git@github.com:Rassibassi/nodejs-week3-exercise-template.git
+```
+
 ## Installing
 To install run `npm install`
 
