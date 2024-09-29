@@ -4,7 +4,7 @@
 
 To clone the repository run:
 ```bash
-git clone git@github.com:Rassibassi/nodejs-week3-exercise-template.git
+git clone https://github.com/Rassibassi/nodejs-week3-exercise-template.git
 ```
 
 ## Installing
